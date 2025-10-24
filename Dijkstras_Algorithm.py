@@ -1,5 +1,5 @@
 #Dijkstra's Algorithm
-
+#This algorithm is also called unifrom search cost algorithm
 class Solution:
     # Implementation for Dijkstra's shortest path algorithm
     def shortestPath(self, n: int, edges: List[List[int]], src: int) -> Dict[int, int]:
